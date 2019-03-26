@@ -7,7 +7,7 @@ from discord.ext.commands import Bot
 
 TOKEN="NTQ5NzAyMjU3MjIyODc3MTkz.D1XtzQ.zX3yk7fVtcrOF-WYjS1EeANP7HU"
 
-img1=Image.open('D:\danil.png')
+$ heroku create myapp --buildpack heroku/python
 
 """cit1="Город разрушен - город не нужен."
 cit2="Брат может не быть другом, но друг всегда брат."
